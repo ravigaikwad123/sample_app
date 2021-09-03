@@ -56,3 +56,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'rexml'
+
+gem 'bootstrap-sass'
+
+gem 'rails-controller-testing'
