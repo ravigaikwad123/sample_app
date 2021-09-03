@@ -60,3 +60,5 @@ gem 'rexml'
 gem 'bootstrap-sass'
 
 gem 'rails-controller-testing'
+
+gem 'bcrypt'
